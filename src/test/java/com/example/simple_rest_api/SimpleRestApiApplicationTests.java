@@ -1,10 +1,10 @@
-package com.epam.backendtask01;
+package com.example.simple_rest_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BackEndTask01ApplicationTests {
+class SimpleRestApiApplicationTests {
 
     @Test
     void contextLoads() {
